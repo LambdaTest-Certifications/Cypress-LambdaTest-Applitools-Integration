@@ -1,6 +1,6 @@
 describe("AppTest", () => {
 
-    it(`ultraFastTest`, function () {
+    it(`Cypress Integration`, function () {
        
         // First Batch //
         // cy.visit('https://demo.applitools.com');
